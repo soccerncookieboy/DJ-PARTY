@@ -1,0 +1,40 @@
+.aisize{
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0;
+}
+.Note{
+    color:black;
+    font-size: 15px;
+}
+.left{
+    float:left;
+    font-size: 20px;
+}
+.leftdj{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+}
+.playnow{
+    font-size: 20px;
+    text-align: center;
+}
+body{
+    background-size: cover;
+}
+.right{
+    float:right;
+    font-size: 20px;
+}
+.rightdj{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+}
+canvas{
+    border-radius: 10px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: red;
+}
